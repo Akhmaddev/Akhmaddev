@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Akhmaddev/Akhmaddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Ahmadboy!</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 Full Stack Developer from Uzbekistan 🇺🇿</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building modern websites and useful applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Developer interested in web development.
+- 🚀 Working with PHP, JavaScript and Python.
+- 🌱 Always learning new technologies.
+- 🌿 Currently developing Gulbozor.
+- 🎯 My goal is to build successful IT projects.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,git,github,vscode" />
+</p>
+
+## 🚀 My Projects
+
+### 🌱 Gulbozor
+Online flower and plant store.
+
+[View Project](https://github.com/Akhmaddev/gulbozor)
+
+### 🍽️ AP London
+Kitchen house website.
+
+[View Project](https://github.com/Akhmaddev/ap-london)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhmaddev&show_icons=true&theme=dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmaddev&layout=compact&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
