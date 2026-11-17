@@ -35,15 +35,7 @@ Kitchen house website.
 
 [View Project](https://github.com/Akhmaddev/ap-london)
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhmaddev&show_icons=true&theme=dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmaddev&layout=compact&theme=dark" />
-</p>
 
 ---
 
