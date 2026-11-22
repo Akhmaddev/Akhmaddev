@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,js,react,php,python,github,openserver,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,js,react,php,python,github,openserverpanel,vscode" />
 </p>
 
 ## 🚀 My Projects
