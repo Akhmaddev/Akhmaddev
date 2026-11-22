@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Developer interested in web development.
-- 🚀 Working with PHP, JavaScript and Python.
+- 🚀 Working with PHP, JavaScript and react.
 - 🌱 Always learning new technologies.
 - 🌿 Currently developing Gulbozor.
 - 🎯 My goal is to build successful IT projects.
