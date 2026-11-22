@@ -20,8 +20,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,js,tailwind,react,jquery,php,python,nodejs,github,netlify,vscode" />
-  <img src="./yii2.svg" height="48" hspace="5" alt="Yii2" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,js,react,php,python,nodejs,github,netlify,vscode" />
+ 
 </p>
 
 ## 🚀 My Projects
